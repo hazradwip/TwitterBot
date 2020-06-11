@@ -14,7 +14,7 @@ class TwitterBot:
         time.sleep(3)
 
 
-ed=TwitterBot('hazradwip@gmail.com','12@Google')
+ed=TwitterBot('')
 ed.Login()
 
 
